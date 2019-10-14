@@ -77,10 +77,9 @@
         </nav>
 
         <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-            <div class="col-md-5 p-lg-5 mx-auto my-5">
-                <h1 class="display-5 font-weight-normal">Under Construction</h1>
-                <p class="lead font-weight-normal">Our websire is currently undergoing scheduled maintenance. We should be back shortly. Thank you for your patience.</p>
-                <!--<a class="btn btn-outline-secondary" href="#">Coming soon</a>-->
+            <div class="col-md-5 p-lg-2 mx-auto my-5">
+                <h1 class="display-5 font-weight-normal">Services</h1>
+                <p class="lead font-weight-normal">We provide you with our outstanding services to make your business easier to manage</p>
                 <div class="input-group mb-3">
                     <input type="text" class="form-control" placeholder="Enter your email" aria-label="Enter your email" aria-describedby="button-addon2">
                     <div class="input-group-append">
@@ -88,8 +87,148 @@
                     </div>
                 </div>
             </div>
-            <div class="product-device shadow-sm d-none d-md-block"></div>
-            <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
         </div>
+
+        <!-- Services section-->
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h5 class="card-title font-weight-bold">Our Services</h5>
+                </div>
+            </div>
+            <br/>
+
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold">Web App Development</h5>
+                        <p class="card-text">Develop attractive website and web application with ease of use and high security</p>
+                    </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold">Mobile App Development</h5>
+                        <p class="card-text">Develop mobile application for iOS and Android</p>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <br/>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold">Web Hosting</h5>
+                        <p class="card-text">Starting from domain management to web and email hosting, you can have them all here at once</p>
+                    </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold">Consultant</h5>
+                        <p class="card-text">You can consult with our experts in order to make your system more effective with low expenses</p>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <br/>
+            
+        </div>
+        
+        <br/>
+        <!-- reason choose us section-->
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h5 class="card-title font-weight-bold">Why should you choose us?</h5>
+                    <p class="card-text">These are reasons you should choose our services:</p>
+                </div>
+            </div>
+            <br/>
+
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold">Beautiful</h5>
+                        <p class="card-text">Beautiful designs that make your website and app more attractive to reflect the value of your business</p>
+                        <a href="#" class="btn btn-warning">More Detail</a>
+                    </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold">Security</h5>
+                        <p class="card-text">Protect your system from various intruding such as stealing or destroying information</p>
+                        <a href="#" class="btn btn-warning">More Detail</a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <br/>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold">Technology</h5>
+                        <p class="card-text">Equip your system with the latest technology in order to make it unique and easy to use</p>
+                        <a href="#" class="btn btn-warning">More Detail</a>
+                    </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold">Consultant</h5>
+                        <p class="card-text">You can consult with our experts in order to make your system more effective with low expenses</p>
+                        <a href="#" class="btn btn-warning">More Detail</a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <br/>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold">Maintenance</h5>
+                        <p class="card-text">Providing maintenance for your system toward the unexpected problems</p>
+                        <a href="#" class="btn btn-warning">More Detail</a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr class="my-4">
+        <footer class="container py-5">
+            <div class="row">
+                <!--<div class="col-12 col-md">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="d-block mb-2" role="img" viewBox="0 0 24 24" focusable="false"><title>Product</title><circle cx="12" cy="12" r="10"/><path d="M14.31 8l5.74 9.94M9.69 8h11.48M7.38 12l5.74-9.94M9.69 16L3.95 6.06M14.31 16H2.83m13.79-4l-5.74 9.94"/></svg>
+                <small class="d-block mb-3 text-muted">&copy; 2017-2019</small>
+                </div>-->
+                <div class="col-8">
+                <h5 class="font-weight-bold">About Us</h5>
+                <p class="card-text">TheLancersCoding Technology, in the aim to provide new technologies to Cambodian people, was incorporated in 2019 under registration number 50006525 of Ministry of Commerce.</p>
+                </div>
+                <div class="col-3">
+                <h5 class="font-weight-bold">Contact Us</h5>
+                <p>081 23 75 46 <br/>info@thelancerscoding.com</p>
+                </div>
+                <div class="col-1">
+                <h5 class="font-weight-bold">Social</h5>
+                </div>
+            </div>
+        </footer>
+
+
+
     </body>
 </html>
