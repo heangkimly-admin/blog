@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'The Lancers Coding'),
 
     /*
     |--------------------------------------------------------------------------
@@ -169,11 +169,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        TheLansersCoding\Providers\AppServiceProvider::class,
+        TheLansersCoding\Providers\AuthServiceProvider::class,
+        // TheLansersCoding\Providers\BroadcastServiceProvider::class,
+        TheLansersCoding\Providers\EventServiceProvider::class,
+        TheLansersCoding\Providers\RouteServiceProvider::class,
 
     ],
 
